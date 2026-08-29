@@ -1,0 +1,8 @@
+setup/aws-iam-authenticator
+setup/aws/
+setup/awscliv2.zip
+setup/aws-iam-authenticator
+setup/aws/
+setup/awscliv2.zip
+node_modules/
+**/node_modules/
